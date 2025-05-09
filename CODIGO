@@ -1,0 +1,16 @@
+# print('\n\t\t --- PESQUISA DE SASTIFAÇAO --- \n')
+
+
+# cont = 0
+# conte = 0
+
+# for i in range (5):
+#     resul = input("Você recomenda esta loja? (S/N)")
+
+#     if resul == 'S':
+#         cont +=1
+#     elif resul == 'N':
+#             conte += 1
+
+# print(f'Recomendam:{cont}')
+# print(f'Nao recomendam: {conte}')
